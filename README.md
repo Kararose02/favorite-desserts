@@ -1,4 +1,5 @@
 # Favorite desserts of our team
 Listing our favorite desserts 
 
-- Kara, brownies 
+- Kara, **brownies**
+- Julien, pancakes
